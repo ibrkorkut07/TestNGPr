@@ -28,8 +28,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager">
-    <configuration name="C01_Priority" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Desktop\TECHPRO\SELENIUM B44 (TUR)\TestNGPr\src\test\java\tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Pra.test2">
+    <configuration name="Pra.boyut" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGPr" />
       <extension name="coverage">
         <pattern>
@@ -38,8 +43,81 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests.day08" />
-      <option name="MAIN_CLASS_NAME" value="tests.day08.C01_Priority" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="MAIN_CLASS_NAME" value="tests.day08.Pra" />
+      <option name="METHOD_NAME" value="boyut" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pra.byVisibleText" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGPr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day08" />
+      <option name="MAIN_CLASS_NAME" value="tests.day08.Pra" />
+      <option name="METHOD_NAME" value="byVisibleText" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pra.dropDownOptions" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGPr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day08" />
+      <option name="MAIN_CLASS_NAME" value="tests.day08.Pra" />
+      <option name="METHOD_NAME" value="dropDownOptions" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pra.kategoriSayisi" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGPr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day08" />
+      <option name="MAIN_CLASS_NAME" value="tests.day08.Pra" />
+      <option name="METHOD_NAME" value="kategoriSayisi" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pra.test2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGPr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day08" />
+      <option name="MAIN_CLASS_NAME" value="tests.day08.Pra" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -48,7 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C01_Priority" />
+        <item itemvalue="TestNG.Pra.test2" />
+        <item itemvalue="TestNG.Pra.kategoriSayisi" />
+        <item itemvalue="TestNG.Pra.dropDownOptions" />
+        <item itemvalue="TestNG.Pra.boyut" />
+        <item itemvalue="TestNG.Pra.byVisibleText" />
       </list>
     </recent_temporary>
   </component>
