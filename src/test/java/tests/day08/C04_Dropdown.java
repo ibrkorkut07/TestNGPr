@@ -58,6 +58,8 @@ public class C04_Dropdown {
         aramaKutusu.sendKeys("Java" + Keys.ENTER);
         //	3. Bulunan sonuc sayisini yazdirin
         WebElement sonucSayisiElementi=driver.findElement(By.xpath("//div[@class='a-section a-spacing-small a-spacing-top-small']"));
+        System.out.println(sonucSayisiElementi.getText());
+
         //	4. Sonucun Java kelimesini icerdigini test edin
 
         String actualSonucSayisiYazisi=sonucSayisiElementi.getText();
