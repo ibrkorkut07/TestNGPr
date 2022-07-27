@@ -30,11 +30,12 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Desktop\TECHPRO\SELENIUM B44 (TUR)\TestNGPr\src\test\java\tests\day13" />
       <recent name="C:\Users\HP\Desktop\TECHPRO\SELENIUM B44 (TUR)\TestNGPr\src\test\java\tests\day09" />
       <recent name="C:\Users\HP\Desktop\TECHPRO\SELENIUM B44 (TUR)\TestNGPr\src\test\java\tests" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Pr.test3">
+  <component name="RunManager" selected="TestNG.Pr.test1">
     <configuration name="Pr.test1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGPr" />
       <extension name="coverage">
@@ -127,9 +128,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Pr.test1" />
         <item itemvalue="TestNG.Pr.test3" />
         <item itemvalue="TestNG.Pr.test2" />
-        <item itemvalue="TestNG.Pr.test1" />
         <item itemvalue="TestNG.Pra.test2" />
         <item itemvalue="TestNG.Pra.kategoriSayisi" />
       </list>
