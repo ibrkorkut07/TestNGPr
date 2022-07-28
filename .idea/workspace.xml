@@ -30,23 +30,25 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Desktop\TECHPRO\SELENIUM B44 (TUR)\TestNGPr\src\test\java\tests\day15" />
+      <recent name="C:\Users\HP\Desktop\TECHPRO\SELENIUM B44 (TUR)\TestNGPr\src\test\java\tests\day14" />
       <recent name="C:\Users\HP\Desktop\TECHPRO\SELENIUM B44 (TUR)\TestNGPr\src\test\java\tests\day13" />
       <recent name="C:\Users\HP\Desktop\TECHPRO\SELENIUM B44 (TUR)\TestNGPr\src\test\java\tests\day09" />
       <recent name="C:\Users\HP\Desktop\TECHPRO\SELENIUM B44 (TUR)\TestNGPr\src\test\java\tests" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Pr.test1">
-    <configuration name="Pr.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C01_Screenshot.nutellaTesti">
+    <configuration name="C01_Screenshot.nutellaTesti" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGPr" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day13.*" />
+          <option name="PATTERN" value="tests.day15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day09" />
-      <option name="MAIN_CLASS_NAME" value="tests.day13.Pr" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="PACKAGE_NAME" value="tests.day15" />
+      <option name="MAIN_CLASS_NAME" value="tests.day15.C01_Screenshot" />
+      <option name="METHOD_NAME" value="nutellaTesti" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -54,17 +56,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pr.test2" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C04_Screenshot" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGPr" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day13.*" />
+          <option name="PATTERN" value="tests.day14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day14" />
+      <option name="MAIN_CLASS_NAME" value="tests.day14.C04_Screenshot" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C04_Screenshot.screenTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGPr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day14" />
+      <option name="MAIN_CLASS_NAME" value="tests.day14.C04_Screenshot" />
+      <option name="METHOD_NAME" value="screenTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pr.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGPr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests.day09" />
-      <option name="MAIN_CLASS_NAME" value="tests.day13.Pr" />
-      <option name="METHOD_NAME" value="test2" />
+      <option name="MAIN_CLASS_NAME" value="tests.day14.Pr" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -76,49 +113,13 @@
       <module name="TestNGPr" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day13.*" />
+          <option name="PATTERN" value="tests.day14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests.day09" />
-      <option name="MAIN_CLASS_NAME" value="tests.day13.Pr" />
+      <option name="MAIN_CLASS_NAME" value="tests.day14.Pr" />
       <option name="METHOD_NAME" value="test3" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Pra.kategoriSayisi" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNGPr" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day13.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day08" />
-      <option name="MAIN_CLASS_NAME" value="tests.day08.Pra" />
-      <option name="METHOD_NAME" value="kategoriSayisi" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Pra.test2" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNGPr" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day13.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day08" />
-      <option name="MAIN_CLASS_NAME" value="tests.day08.Pra" />
-      <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -128,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C01_Screenshot.nutellaTesti" />
+        <item itemvalue="TestNG.C04_Screenshot.screenTest" />
+        <item itemvalue="TestNG.C04_Screenshot" />
         <item itemvalue="TestNG.Pr.test1" />
         <item itemvalue="TestNG.Pr.test3" />
-        <item itemvalue="TestNG.Pr.test2" />
-        <item itemvalue="TestNG.Pra.test2" />
-        <item itemvalue="TestNG.Pra.kategoriSayisi" />
       </list>
     </recent_temporary>
   </component>

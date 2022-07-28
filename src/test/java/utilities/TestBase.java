@@ -36,7 +36,7 @@ public abstract class TestBase {
 
         TakesScreenshot tss=(TakesScreenshot) driver;
 
-        String tarih=new SimpleDateFormat("yyMMddhhmmss").format(new Date());
+        String tarih=new SimpleDateFormat("yyMMMddhhmmss").format(new Date());
 
         File tumSayfa= new File("target/screenShot/tumSayfa"+tarih+".jpg");
 
